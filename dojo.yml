@@ -7,5 +7,5 @@ type: private
 modules:
 
   - import:
-    dojo: welcome
-    module: welcome
+      dojo: welcome
+      module: welcome
