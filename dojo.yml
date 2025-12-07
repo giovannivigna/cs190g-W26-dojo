@@ -10,6 +10,6 @@ modules:
       dojo: welcome
       module: welcome
   
-  - import
+  - import:
       dojo: linux-luminarium
       module: paths
