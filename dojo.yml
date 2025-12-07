@@ -9,3 +9,7 @@ modules:
   - import:
       dojo: welcome
       module: welcome
+  
+  - import
+      dojo: linux-luminatium
+      module: paths
