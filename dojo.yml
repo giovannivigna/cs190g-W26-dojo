@@ -1,0 +1,11 @@
+id: CS190g-Winter-2026
+
+name: CS190g Winter 2026
+
+type: private
+
+modules:
+
+  - import:
+    dojo: welcome
+    module: welcome
