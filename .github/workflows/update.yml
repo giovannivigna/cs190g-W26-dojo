@@ -1,0 +1,12 @@
+name: Update Dojo
+
+on: push
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: pwncollege/dojo-update@v1
+        with:
+          dojo: cs190g-winter-2026
+          update_code: ${{ secrets.UPDATE_CODE }}
