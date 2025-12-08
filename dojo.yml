@@ -5,16 +5,18 @@ name: CS190g Winter 2026
 type: private
 
 modules:
-  - id: intro-to-linux
-    name: Intro to Linux
-
   - import:
       dojo: welcome
       module: welcome
 
   - import:
-      dojo: linux-luminarium
-      module: paths
+      dojo: computing-101
+      module: your-first-program
+
+- import:
+      dojo: computing-101
+      module: introspecting
+
 
   - id: intro-to-something
     name: Intro to something
