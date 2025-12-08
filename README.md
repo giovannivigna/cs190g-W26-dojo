@@ -41,7 +41,17 @@ Learn how to use system calls.
 
 All challenges are mandatory.
 
+## Assembly Crash Course
 
+Learn assembly and debugging.
+
+All challenges are mandatory.
+
+## Debugging Refresher
+
+Learn how to debug program with gdb (or pwngdb),
+
+All challnges are mandatory.
 
 
 

@@ -27,6 +27,10 @@ modules:
   
   - import:
       dojo: computing-101
+      module: assembly-crash-course
+  
+  - import:
+      dojo: computing-101
       module: debugging-refresher
   
   - id: intro-to-something
