@@ -18,7 +18,10 @@ modules:
 
   - id: intro-to-something
     name: Intro to something
-
-  - import:
-      dojo: welcome
-      module: welcome
+  
+    challenges:
+    - type: challenge
+      import:
+        dojo: system-security
+        module: sandboxing
+        challenge: level-3
