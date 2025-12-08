@@ -13,7 +13,7 @@ modules:
       dojo: computing-101
       module: your-first-program
 
-- import:
+  - import:
       dojo: computing-101
       module: introspecting
 
