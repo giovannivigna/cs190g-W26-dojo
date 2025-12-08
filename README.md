@@ -53,6 +53,12 @@ Learn how to debug program with gdb (or pwngdb),
 
 All challnges are mandatory.
 
+## Dealing with Data
+
+Learn how to encode/decode/obfuscate/deobfudcate data.
+
+All challnges are mandatory.
+
 
 
 

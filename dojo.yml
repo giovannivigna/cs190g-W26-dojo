@@ -32,13 +32,19 @@ modules:
   - import:
       dojo: computing-101
       module: debugging-refresher
-  
-  - id: intro-to-something
-    name: Intro to something
-  
-    challenges:
-    - type: challenge
-      import:
-        dojo: system-security
-        module: sandboxing
-        challenge: level-3
+
+  - import:
+      dojo: fundamentals
+      module: data-dealings
+
+  - import:
+      dojo: fundamentals
+      module: talking-web
+
+  - import:
+      dojo: intro-to-cybersecurity
+      module: web-security
+
+  - import: 
+      dojo: intro-to-cybersecurity
+      module: binary-exploitation
