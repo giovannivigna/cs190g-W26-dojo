@@ -17,7 +17,18 @@ modules:
       dojo: computing-101
       module: introspecting
 
+  - import:
+      dojo: computing-101
+      module: memory
 
+  - import:
+      dojo: computing-101
+      module: hello-hackers
+  
+  - import:
+      dojo: computing-101
+      module: debugging-refresher
+  
   - id: intro-to-something
     name: Intro to something
   

@@ -1,5 +1,8 @@
 # CS190g Winter 2026 pwn.college Dojo
 
+This dojo is a selection of the modules currently available in pwn.college.
+Solving challenges in these modules will advance you in the class, and, at the same time, it will give you credits on pwn.college.
+
 ## Using the Dojo
 
 This module introduces you to the pwn.college framework and how to solve challenges.
@@ -25,6 +28,22 @@ All challenges are mandatory.
 Learn the basics of debugging and tracing a program's execution.
 
 All challenges are mandatory.
+
+## Computer Memory
+
+Learn how memory works, and how pointers can be manipulated.
+
+All challenges are mandatory.
+
+## Hello Hackers
+
+Learn how to use system calls.
+
+All challenges are mandatory.
+
+
+
+
 
 
 
