@@ -3,6 +3,8 @@
 This dojo is a selection of the modules currently available in pwn.college.
 Solving challenges in these modules will advance you in the class, and, at the same time, it will give you credits on pwn.college.
 
+You can join this dojo using the following link: https://pwn.college/dojo/cs190g-winter-2026~a52e2ed6/join/
+
 ## Using the Dojo
 
 This module introduces you to the pwn.college framework and how to solve challenges.
@@ -59,9 +61,23 @@ Learn how to encode/decode/obfuscate/deobfudcate data.
 
 All challnges are mandatory.
 
+## Talking Web
 
+Learn how to talk to web serverds.
 
+All challnges are mandatory.
 
+## Web Security
+
+Learn how to exploit web-based services.
+
+All challnges are mandatory.
+
+## Binary Exploitation
+
+Learn how to exploit binaries.
+
+All challnges are mandatory.
 
 
 
